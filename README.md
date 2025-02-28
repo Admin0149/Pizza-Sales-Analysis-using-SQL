@@ -3,7 +3,7 @@
 **Objective**
 This project aims to analyze pizza sales data using SQL queries to extract key insights such as revenue trends, order patterns, and category-wise performance.
 
-**Key SQL Queries and Insights**
+## Key SQL Queries and Insights
 
 **1.Total Revenue**
 
