@@ -67,3 +67,13 @@ GROUP BY pizza_category;**
 
 > Analyzes how different pizza categories contribute to total sales.
 
+
+## Conclusion
+
+This SQL project provides a comprehensive analysis of pizza sales data, helping businesses understand revenue trends, customer purchasing behavior, and peak sales periods. The insights can be leveraged for strategic decision-making, such as optimizing inventory, planning promotions, and improving operational efficiency.
+
+
+
+
+![Screenshot 2025-02-28 090743](https://github.com/user-attachments/assets/009b6566-f861-4c83-bf83-9e63465fe8f1)
+
