@@ -35,7 +35,7 @@ Counts the total unique orders placed.
 
 Calculates the average number of pizzas purchased per order.
 
-**Trend Analysis**
+### Trend Analysis
 
 **6.Daily Order Trends**
 
@@ -54,7 +54,7 @@ ORDER BY DATEPART(HOUR, order_time);**
 
 Determines peak ordering hours.
 
-**Sales Distribution**
+### Sales Distribution
 
 **8.Percentage of Sales by Pizza Category**
 
