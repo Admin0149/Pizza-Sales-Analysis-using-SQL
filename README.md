@@ -15,25 +15,25 @@ This project aims to analyze pizza sales data using SQL queries to extract key i
 
 **SELECT SUM(total_price) / COUNT(DISTINCT order_id) AS Average_Order_Value FROM pizza_sales;**
 
-Determines the average revenue per order.
+> Determines the average revenue per order.
 
 **3.Total Pizzas Sold**
 
 **SELECT SUM(quantity) AS Total_Pizza_Sold FROM pizza_sales;**
 
-Finds the total number of pizzas sold.
+> Finds the total number of pizzas sold.
 
 **4.Total Orders**
 
 **SELECT COUNT(DISTINCT order_id) AS Total_Orders FROM pizza_sales;**
 
-Counts the total unique orders placed.
+> Counts the total unique orders placed.
 
 **5.Average Pizzas Per Order**
 
 **SELECT CAST(CAST(SUM(quantity) AS DECIMAL(10,2)) / CAST(COUNT(DISTINCT order_id) AS DECIMAL(10,2)) AS DECIMAL(10,2)) AS Average_Pizza_Per_Order FROM pizza_sales;**
 
-Calculates the average number of pizzas purchased per order.
+> Calculates the average number of pizzas purchased per order.
 
 ### Trend Analysis
 
@@ -43,7 +43,7 @@ Calculates the average number of pizzas purchased per order.
 FROM pizza_sales
 GROUP BY DATENAME(DW, order_date);**
 
-Identifies which days of the week receive the highest number of orders.
+> Identifies which days of the week receive the highest number of orders.
 
 **7.Hourly Order Trends**
 
@@ -52,7 +52,7 @@ FROM pizza_sales
 GROUP BY DATEPART(HOUR, order_time)
 ORDER BY DATEPART(HOUR, order_time);**
 
-Determines peak ordering hours.
+> Determines peak ordering hours.
 
 ### Sales Distribution
 
@@ -65,5 +65,5 @@ FROM pizza_sales
 WHERE MONTH(order_date) = 1
 GROUP BY pizza_category;**
 
-Analyzes how different pizza categories contribute to total sales.
+> Analyzes how different pizza categories contribute to total sales.
 
