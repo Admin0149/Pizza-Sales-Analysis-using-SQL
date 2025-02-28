@@ -9,7 +9,7 @@ This project aims to analyze pizza sales data using SQL queries to extract key i
 
 **SELECT SUM(total_price) AS Total_Revenue FROM pizza_sales;**
 
-Calculates the total revenue generated from pizza sales.
+> Calculates the total revenue generated from pizza sales.
 
 **2.Average Order Value**
 
