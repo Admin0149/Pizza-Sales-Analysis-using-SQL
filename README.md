@@ -83,7 +83,11 @@ This Pizza Sales Dashboard provides a comprehensive analysis of sales trends, cu
 
 ### Business Recommendations
 ✅ **Promote High-Selling Pizzas**: Use marketing campaigns for Classic & Barbecue pizzas.
+
 ✅ **Boost Slow-Selling Pizzas**: Offer discounts on Brie Carre & Calabrese pizzas to improve sales.
+
 ✅ **Peak Time Promotions**: Offer happy hour deals (12-1 PM & 5-8 PM) to maximize revenue.
+
 ✅ **Stock High-Demand Sizes**: Since Regular & Large sizes sell the most, optimize inventory for them.
+
 
