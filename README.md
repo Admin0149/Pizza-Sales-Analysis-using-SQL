@@ -73,7 +73,17 @@ GROUP BY pizza_category;**
 This SQL project provides a comprehensive analysis of pizza sales data, helping businesses understand revenue trends, customer purchasing behavior, and peak sales periods. The insights can be leveraged for strategic decision-making, such as optimizing inventory, planning promotions, and improving operational efficiency.
 
 
+## Dashboard (Excel),Visualizations & Insights
+
+This Pizza Sales Dashboard provides a comprehensive analysis of sales trends, customer preferences, and business performance based on pizza orders. It includes KPIs, trend analysis, and category-wise insights to help optimize sales strategies.
 
 
 ![Screenshot 2025-02-28 090743](https://github.com/user-attachments/assets/009b6566-f861-4c83-bf83-9e63465fe8f1)
+
+
+### Business Recommendations
+✅ **Promote High-Selling Pizzas**: Use marketing campaigns for Classic & Barbecue pizzas.
+✅ **Boost Slow-Selling Pizzas**: Offer discounts on Brie Carre & Calabrese pizzas to improve sales.
+✅ **Peak Time Promotions**: Offer happy hour deals (12-1 PM & 5-8 PM) to maximize revenue.
+✅ **Stock High-Demand Sizes**: Since Regular & Large sizes sell the most, optimize inventory for them.
 
